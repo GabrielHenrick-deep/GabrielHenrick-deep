@@ -4,7 +4,7 @@ Sou estudante de Engenharia de Computação na UFU, apaixonado por Inteligência
 
 🔍 Atualmente estudando: Machine Learning, Deep Learning e IA Generativa (GenAI)  
 🧠 Áreas de interesse: IA aplicada, visão computacional, automação e sistemas inteligentes  
-🎓 Participações: CONSELT – Empresa Júnior | Grupo de Pesquisas em Realidade Virtual e Aumentada (GRVA – UFU)
+🎓 Participações: Grupo de Pesquisas em Realidade Virtual e Aumentada (GRVA – UFU)
 
 ---
 
