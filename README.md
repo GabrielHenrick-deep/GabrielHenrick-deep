@@ -10,7 +10,7 @@ Sou estudante de Engenharia de Computação na UFU, com foco em **Inteligência 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrick-ribeiro-de-sousa-a235a02b9/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielHenrick-deep&show_icons=true&theme=dark)
+
 
 ---
 
